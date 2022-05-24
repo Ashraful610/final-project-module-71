@@ -1,0 +1,8 @@
+@media only screen and (max-width:415px){
+    .hero{
+        padding:5px;
+    }
+}
+.hero{
+    background-image:url(../../assets/images/bg.png)
+}
