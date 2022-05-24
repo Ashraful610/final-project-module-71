@@ -7,10 +7,11 @@
     height:550px;
 }
 .dental-info{
-    padding-top: 100px;
-    display:flex ;
+    padding-top: 100px; 
+   display:flex ;
     flex-direction: column;
     text-justify: center;
+   align-items:center 
 }
 .button{
     margin-top:20px;
