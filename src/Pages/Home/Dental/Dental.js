@@ -12,7 +12,7 @@ const Dental = () => {
             <div className="dental-info flex align-items-center">
                 <h2 className="text-4xl font-bold">Exceptional Dental Care,on Your Terms</h2>
                 <p className="text-xl mt-4">What is basic dental care? Basic dental care involves brushing and flossing your teeth regularly, seeing your dentist and/or dental hygienist for regular checkups and cleanings, and eating a mouth-healthy diet, which means eating plenty of whole grain foods, vegetables and fruits, and protein foods.</p>
-                <PrimaryButton></PrimaryButton>
+                <PrimaryButton>Get Start</PrimaryButton>
             </div>
         </div>
     );

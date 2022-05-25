@@ -18,7 +18,7 @@ const MakeAppointment = () => {
                <h2 className="text-primary text-xl">Appointment</h2>
                 <h2 className="text-4xl text-white">Make an appointment Today</h2>
                 <p className="text-white">The average time a dental appointment lasts is 30 to 45 minutes. You can expect a full exam of teeth, jaws, bite, gums, oral tissues to check the growth and development. A gentle cleaning might take place if needed, followed by polishing teeth and removing plaque, tartar and stains</p>
-               <PrimaryButton ></PrimaryButton>
+               <PrimaryButton >Get Start</PrimaryButton>
             </div>
 
         </div>

@@ -7,6 +7,7 @@ import Appointment from './Pages/Appointment/Appointment';
 import Reviews from './Pages/Reviews/Reviews';
 import ContactUs from './Pages/Contact Us/ContactUs';
 import Login from './Pages/Login/Login';
+import Footer from '../src/Pages/Shared/Footer'
 
 function App() {
   return (
